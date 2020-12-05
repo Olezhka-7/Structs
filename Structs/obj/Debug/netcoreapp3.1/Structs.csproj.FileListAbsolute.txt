@@ -1,0 +1,13 @@
+D:\Oleh\Programm\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.exe
+D:\Oleh\Programm\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.deps.json
+D:\Oleh\Programm\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.json
+D:\Oleh\Programm\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.dev.json
+D:\Oleh\Programm\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.dll
+D:\Oleh\Programm\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.pdb
+D:\Oleh\Programm\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.csprojAssemblyReference.cache
+D:\Oleh\Programm\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfoInputs.cache
+D:\Oleh\Programm\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfo.cs
+D:\Oleh\Programm\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.csproj.CoreCompileInputs.cache
+D:\Oleh\Programm\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.dll
+D:\Oleh\Programm\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.pdb
+D:\Oleh\Programm\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.genruntimeconfig.cache
